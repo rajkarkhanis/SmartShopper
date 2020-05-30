@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">55921256218-afi82e19m5148lt31n9nv79ubsgbaekt.apps.googleusercontent.com</string>
+    <string name="firebase_database_url" translatable="false">https://smartshopper-880e8.firebaseio.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">55921256218</string>
+    <string name="google_api_key" translatable="false">AIzaSyAHJTcOhLEhD9WxBz3VNouezjYkwcOXXr8</string>
+    <string name="google_app_id" translatable="false">1:55921256218:android:6ad90b897ca2408b</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyAHJTcOhLEhD9WxBz3VNouezjYkwcOXXr8</string>
+    <string name="google_storage_bucket" translatable="false">smartshopper-880e8.appspot.com</string>
+    <string name="project_id" translatable="false">smartshopper-880e8</string>
+</resources>
